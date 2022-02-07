@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kishan-practice",
+  "private_key_id": "8a3965729854c9f6b23bcb03a685e7ef884af5ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+2LamK+F3MIi5\nP7/RHKA9oKvCxF8qzBtOVITZASdjh3aY9qQOApMJKJ60IpZerp5F+IZQiuew/srI\noqJvXC6Wnd/h6VGJ64qlW9SXl01PzrRcAfujRAuiMu8UgrsUNihL9nPs4TxnTGMu\ncTGctVJA/brDR1RsqSLVh/7jm2ww6WDXlt2cf1kiu8ivlaLAUzqMvGon1/++pbrU\nVLFLEvHuxFWjUAPJ/Wjo6sFNdbh6922ONvicq31sJ69wE2LjQ/rY2gWIuVM6+6Wl\n+k9ZREjfdqcwA4cuAfrn73uncN9IDW+rRqLfnKNeLYAzGMDt7TgioJSWZOz1o3Me\nZARX07ArAgMBAAECggEAKQv0UM4sSpXaOjmvWFr3TfnyJ0xUCaDnmJPOFNxOK/Z1\nOBYIF+lO1Y/yflzYCZo1+Wen/8e4aFWMqNVt6VSiwotHHVAw1OCfq8wR796/ZpRX\nL1jP1gArHmIlELzDXuf9B8WEjmStOKxxwone+Uz4WXkZA6oiStKf5tw+opaJkQUp\nxewkO1p2PHiM9phe1BvGBR4fKpwFWivGT1L9eGrtbreg2nm+RFBywaXnjHHbiFGd\nN9RYqT6PINjVHqDnQ4YVCpFqiZx5A7QmJb2/JYdmM5WoLMbwmAofdgAZvp+Uh75K\nY1OuRzrwkGJIJxreMSKNalbX+A4+Ss0JXHrHlhxpsQKBgQDlLPesKUvhCV4X4YA4\n6s5BOIMD7qFlI2mfPBG02daPA/noQHtLm7MlIR6OV3AV+S6DxQo4o1T9UWhgixp/\nXhZpE+Lc6IwJXCGF58JQAVrQy9VznhtYqR6kQU/NqeVTNxW8fsXdtnRGcMQcY1wl\nDvZqNVPtGO6JTz3IoWNIah3ikQKBgQDVL0AIDy4sX+RoPJ6Zouje59BPUTXzZ7dq\n+B+Xqf5SMlHpyJlVwHPao9DvjAyp8OfAV3G83d030nbFPNIPi7pncxoQVXDZJ6/k\nMUH2E2xELfeHaks/a0ajZDRwTwyqdEeZt8joMlD8U+3MShe0BF0p3TQOu5lqxxdu\nU7NII8vM+wKBgQC3NYOqNjla5co6/SMsXUoWCb9zXUnZOL4vdi4RjjRgkKUwbpwi\njY5hmGB9GpmYd2QgI11QegJvoKz4wTulpunzhtpOD/ojYWvLSMOmge7ADLPPgg4K\niujcFvpdR/z00Yym7BHydPHvfibJKwV2+sczkP5PBSdszdRul9ZvBaZugQKBgBYy\nnVA5hG1KbtYLudf1hpnvOVmI8z0tB4Qz4dZA9SJJ6w2UvaKYL3gMpqzKwGbRltAI\nSueHkolFeOiAtL65pecvrP8WZnG2GDKCjoO48gUHZEbNYphv6yMIRA2NrZvyD6KJ\n6HmFA7nCY3hqHp239pttVQZTsl3T7TSnsntIfugRAoGANp405SEUrmnkQry6UDtX\n5a4cJj0Z8Ed0L69HrzaJ911RhcM6xa4EVG1RcDeVPzQJNCww5ZoDZjkBOSBn2HqX\nRkufJJS6hJF7ps122EX2GnDprk6Q3GOdXbIpdPIa6CVmEuIJUQ4xXL+0Bt3ThaQ2\nWG1249QFInF1nGH1YaMFclg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sample-vm-key@kishan-practice.iam.gserviceaccount.com",
+  "client_id": "115871233680179968870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sample-vm-key%40kishan-practice.iam.gserviceaccount.com"
+}
